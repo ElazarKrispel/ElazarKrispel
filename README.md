@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi, i'm Elazar 👋 a 3rd-year Software Engineering Student
+## 🌱 I’m currently learning: advanced algorithms, machine learning, and natural language processing, aiming to deepen my understanding and practical skills in AI development.
+### 🔭 I’m currently working on: building a solid foundation in AI and Machine Learning, with hands-on projects. Exploring NLP and deep learning techniques.
 
+#### 👯 I’m looking to collaborate on: open-source projects in AI, especially in NLP and deep learning.
+#### 🤔 I’m looking for help with: advanced machine learning concepts or projects related to general AI.
+#### 💬 Ask me about: software engineering, AI fundamentals, or any topics in NLP.
+#### 📫 How to reach me: [0808ppp@gmail.com](mailto:0808ppp@gmail.com) | [LinkedIn](https://www.linkedin.com/in/elazar-krispel/)
+#### ⚡ Fun fact: I'm also passionate about exploring the ethical implications of AI in society!
 <!--
 **ElazarKrispel/ElazarKrispel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
